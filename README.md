@@ -2,6 +2,8 @@
 
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp2dzAzb3hpb2NiMHh1NWlybTYxZmZjbXdhdGliMHZrZ3lqMmh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.gif" width="190"/>
 
+## I'm a beginner in the world of programming. I enjoy working with the following languages and frameworks:
+
 ### 🖥️ Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
