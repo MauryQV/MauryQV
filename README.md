@@ -1,16 +1,13 @@
-## Hi there 👋
+##  welcome to my github profile adventurer 👋
 
-<!--
-**MauryQV/MauryQV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp2dzAzb3hpb2NiMHh1NWlybTYxZmZjbXdhdGliMHZrZ3lqMmh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.gif" width="190"/>
 
-Here are some ideas to get you started:
+### 🖥️ Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Frameworks & Libraries:
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
