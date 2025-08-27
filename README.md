@@ -1,7 +1,7 @@
 ##  welcome to my github profile adventurer 👋
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp2dzAzb3hpb2NiMHh1NWlybTYxZmZjbXdhdGliMHZrZ3lqMmh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.gif" width="250" border="4px"/>
+  XD
 </div>
 
 ##  About Me
