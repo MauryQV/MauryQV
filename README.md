@@ -1,7 +1,7 @@
 ##  welcome to my github profile adventurer 👋
 
 <div align="center">
-  XD
+  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@userwassaname_/video/7539390407352913183" data-video-id="7539390407352913183" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@userwassaname_" href="https://www.tiktok.com/@userwassaname_?refer=embed">@userwassaname_</a> Seeing them move on so fast was so crazy I wish I never stalked u in the first place bruh <a title="dontletthisflop" target="_blank" href="https://www.tiktok.com/tag/dontletthisflop?refer=embed">#dontletthisflop</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="stalking" target="_blank" href="https://www.tiktok.com/tag/stalking?refer=embed">#stalking</a> <a title="ex" target="_blank" href="https://www.tiktok.com/tag/ex?refer=embed">#ex</a> <a title="viralvideo" target="_blank" href="https://www.tiktok.com/tag/viralvideo?refer=embed">#viralvideo</a> <a target="_blank" title="♬ I&#39;m Not In Love - 10cc" href="https://www.tiktok.com/music/I'm-Not-In-Love-6928454674862082050?refer=embed">♬ I&#39;m Not In Love - 10cc</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 </div>
 
 ##  About Me
