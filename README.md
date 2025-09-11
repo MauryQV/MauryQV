@@ -1,9 +1,8 @@
 ##  welcome to my github profile adventurer 👋
 
 <div align="center">
-  <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@userwassaname_/video/7539390407352913183" data-video-id="7539390407352913183" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@userwassaname_" href="https://www.tiktok.com/@userwassaname_?refer=embed">@userwassaname_</a> Seeing them move on so fast was so crazy I wish I never stalked u in the first place bruh <a title="dontletthisflop" target="_blank" href="https://www.tiktok.com/tag/dontletthisflop?refer=embed">#dontletthisflop</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="stalking" target="_blank" href="https://www.tiktok.com/tag/stalking?refer=embed">#stalking</a> <a title="ex" target="_blank" href="https://www.tiktok.com/tag/ex?refer=embed">#ex</a> <a title="viralvideo" target="_blank" href="https://www.tiktok.com/tag/viralvideo?refer=embed">#viralvideo</a> <a target="_blank" title="♬ I&#39;m Not In Love - 10cc" href="https://www.tiktok.com/music/I'm-Not-In-Love-6928454674862082050?refer=embed">♬ I&#39;m Not In Love - 10cc</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3enFqNHo5bTdkemk3cTJ1c2s0cGVkazEyOTM2dGw4MTRxcXYyOWFnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LwTAKTOg8kMXm/giphy.gif" width="480" height="360" />
 </div>
-
 ##  About Me
 I'm a passionate programming enthusiast, constantly learning and building projects with modern technologies. I enjoy working across the full stack — from clean UIs to robust backends and APIs.
 
